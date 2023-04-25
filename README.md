@@ -8,7 +8,7 @@ O app face quiz oferece diversas perguntas onde você poderá responder sem a ne
 
 ## Check list
 - [x] Configurar a biblioteca;
-- [] Reconhecer a face do usuário;
-- [] Reconhecer expressões realizadas na face do usuário;
-- [] Mapear expressão como modo de resposta;
+- [ ] Reconhecer a face do usuário;
+- [ ] Reconhecer expressões realizadas na face do usuário;
+- [ ] Mapear expressão como modo de resposta;
 
