@@ -7,5 +7,6 @@ export const theme = {
         black:"#000500",
         success: "#84DD63",
         failure: "#BB342F",
+        background: "#F6F6F6F6"
     }
 }
