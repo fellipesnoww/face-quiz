@@ -1,4 +1,4 @@
-package com.facequiz;
+package com.anonymous.facequiz;
 
 import android.os.Build;
 import android.os.Bundle;

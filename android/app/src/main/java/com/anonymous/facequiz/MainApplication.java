@@ -1,4 +1,4 @@
-package com.facequiz;
+package com.anonymous.facequiz;
 
 import android.app.Application;
 import android.content.res.Configuration;
