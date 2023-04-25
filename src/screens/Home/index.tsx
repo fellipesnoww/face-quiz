@@ -2,7 +2,7 @@ import React from 'react';
 import { Container, Title, Subtitle, HelpList, Help } from './styles';
 
 
-export default function App() {
+export default function Home() {
   return (
     <Container>
         <Title>Bem vindo ao face quiz</Title>
