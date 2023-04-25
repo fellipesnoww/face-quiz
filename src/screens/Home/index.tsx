@@ -1,8 +1,10 @@
 import React from 'react';
 import { Container, Title, Subtitle, HelpList, Help } from './styles';
+import DefaultButton from '../../components/DefaultButton';
 
 
 export default function Home() {
+  
   return (
     <Container>
         <Title>Bem vindo ao face quiz</Title>
@@ -13,7 +15,7 @@ export default function Home() {
             <Help> - Mexa a cabeça 3 vezes para a ESQUERDA para voltar;</Help>
             <Help> - Mexa a cabeça 3 vezes para a DIREITA para voltar;</Help>
         </HelpList>
-        
+        <DefaultButton text='Continuar'/>
     </Container>
   );
 }
