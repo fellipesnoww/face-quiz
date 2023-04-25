@@ -1,0 +1,14 @@
+{
+    "questions": [
+        { "question": "2 + 2 = 4?", "correct_response": true },
+        { "question": "10 > 5?", "correct_response": true },
+        { "question": "O Brasil é um país na América do Sul?", "correct_response": true },
+        { "question": "Laranjas são vermelhas?", "correct_response": false },
+        { "question": "A Terra é plana?", "correct_response": false },
+        { "question": "Água ferve a 100 graus Celsius ao nível do mar?", "correct_response": true },
+        { "question": "Uma dezena tem 12 unidades?", "correct_response": false },
+        { "question": "O sol é uma estrela?", "correct_response": true },
+        { "question": "O vermelho é uma cor primária?", "correct_response": false },
+        { "question": "O pinguim é uma ave que voa?", "correct_response": false }
+    ]
+}
