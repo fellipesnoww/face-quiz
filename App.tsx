@@ -1,13 +1,13 @@
+import 'react-native-reanimated';
 import React from 'react';
-import { View } from 'react-native';
 import { ThemeProvider } from 'styled-components';
 import { theme } from './src/global/theme';
-import Home from './src/screens/Home';
+import Routes from './src/routes';
 
 export default function App() {
   return (
     <ThemeProvider theme={theme}>
-      <Home/>
+      <Routes />
     </ThemeProvider>
   );
 }
