@@ -19,6 +19,12 @@
         "android.permission.CAMERA"
       ],
       "package": "com.anonymous.facequiz"
+    },
+    "ios": {
+      "infoPlist": {
+        "NSCameraUsageDescription": "$(PRODUCT_NAME) needs access to your Camera."
+      },
+      "bundleIdentifier": "com.anonymous.facequiz"
     }
   }
 }
