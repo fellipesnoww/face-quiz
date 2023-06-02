@@ -4,7 +4,7 @@ import { TouchableOpacityProps } from 'react-native';
 
 interface CounterProps {
   text: string;
-  value: string;
+  value: string | number;
 }
 
 

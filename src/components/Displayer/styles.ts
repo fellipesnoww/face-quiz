@@ -8,6 +8,11 @@ export const Container = styled.View`
     border-radius: 4px;
     position: absolute;
     flex-direction: row;
+    top: 100px;
+    left: 0;
+    right: 0;
+
+    z-index: 1;
 `;
 
 export const Text = styled.Text`
